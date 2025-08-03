@@ -29,8 +29,8 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 * **Database:** Firestore 
 
 ---
-
-##Screenshot
+---
+🖼️ UI Screenshots
 
 ![1](https://github.com/user-attachments/assets/5c96b998-db4c-47f1-8d46-3eba82674071)
 
@@ -45,7 +45,7 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 ![4](https://github.com/user-attachments/assets/5ec1d4f5-b15b-4169-b92f-429c99c4b03e)
 ![5](https://github.com/user-attachments/assets/07bea340-76e5-4c7e-9826-23c2dc177888)
 
-
+---
 
 ## 👥 Team Information!
 
@@ -73,5 +73,6 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 * 👥 Partner with municipalities for real-time waste pickup systems
 
 ---
+
 
 
