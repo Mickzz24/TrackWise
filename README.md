@@ -30,7 +30,7 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 
 ---
 ---
-🖼️ UI Screenshots
+## 🖼️ UI Screenshots
 
 ![1](https://github.com/user-attachments/assets/5c96b998-db4c-47f1-8d46-3eba82674071)
 
@@ -73,6 +73,7 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 * 👥 Partner with municipalities for real-time waste pickup systems
 
 ---
+
 
 
 
