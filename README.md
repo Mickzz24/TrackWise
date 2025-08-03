@@ -30,9 +30,25 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 
 ---
 
+##Screenshot
+
+![1](https://github.com/user-attachments/assets/5c96b998-db4c-47f1-8d46-3eba82674071)
 
 
-## 👥 Team Information
+
+![2](https://github.com/user-attachments/assets/fb521752-18c7-46c9-9f56-362f11cf5777)
+
+
+
+
+![3](https://github.com/user-attachments/assets/49bdaf8e-98a7-4538-b67f-ff5cfdec558f)
+
+![5](https://github.com/user-attachments/assets/07bea340-76e5-4c7e-9826-23c2dc177888)
+![4](https://github.com/user-attachments/assets/5ec1d4f5-b15b-4169-b92f-429c99c4b03e)
+
+
+## 👥 Team Information!
+
 
 * **Member 1:** Theerdha S Joy – [GitHub: https://github.com/Mickzz24]
 
@@ -57,3 +73,4 @@ In many regions, households lack structured waste disposal systems. Waste gets m
 * 👥 Partner with municipalities for real-time waste pickup systems
 
 ---
+
